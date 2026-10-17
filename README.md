@@ -52,7 +52,7 @@ The trial uses a synthetic e-commerce dataset hosted in BigQuery, made available
 
 Open the listing link below. You will need a Google account with access to a GCP project — a free tier project is sufficient.
 
-[Subscribe to the trial dataset on BigQuery sharing](https://console.cloud.google.com/bigquery/analytics-hub/exchanges/projects/15755059154/locations/eu/dataExchanges/rittman_analytics_181c88de202/listings/trial_project_ecommerce_dataset_19d6a074c53?project=ra-development)
+[Subscribe to the trial dataset on BigQuery sharing](https://console.cloud.google.com/bigquery/analytics-hub/exchanges/projects/15755059154/locations/eu/dataExchanges/rittman_analytics_181c88de202/listings/trial_project_ecommerce_dataset_19d6a074c53)
 
 On the listing page, click **Subscribe**, select your own GCP project from the dropdown, leave the linked dataset name as `trial_ecommerce`, and click **Save**. The dataset will appear in your BigQuery project within a few seconds as a read-only linked dataset.
 
